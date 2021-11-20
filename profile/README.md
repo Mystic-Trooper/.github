@@ -4,11 +4,11 @@ OG's log book for Mystic Trooper
 
 ## Champions
 
-@sanjoli63 - Sanjoli Goyal 
+[@sanjoli63](https://github.com/sanjoli63) - Sanjoli Goyal 
 
-@Muskan4010 - Muskan Jain 
+[@Muskan4010](https://github.com/Muskan4010) - Muskan Jain 
 
-@Amitpatil215 - Amit Patil
+[@Amitpatil215](https://github.com/Amitpatil215) - Amit Patil
 
 
 <!--
