@@ -2,6 +2,15 @@
 
 OG's log book for Mystic Trooper
 
+## Champions
+
+@sanjoli63 - Sanjoli Goyal 
+
+@Muskan4010 - Muskan Jain 
+
+@Amitpatil215 - Amit Patil
+
+
 <!--
 
 **Here are some ideas to get you started:**
