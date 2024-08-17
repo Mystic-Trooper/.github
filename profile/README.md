@@ -3,6 +3,7 @@
 OG's log book for Mystic Trooper
 
 ## Champions
+JIIT 2019-23 IT batch Students
 
 [@sanjoli63](https://github.com/sanjoli63) - Sanjoli Goyal 
 
